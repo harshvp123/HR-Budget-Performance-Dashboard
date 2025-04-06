@@ -1,4 +1,4 @@
-# HR-Budget-Performance-Dashboard
+# HR-Budget-Performance-Analysis
 
 # 🚀 HR & Project Performance Dashboard (Power BI)
 
