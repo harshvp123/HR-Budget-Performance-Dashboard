@@ -1,5 +1,4 @@
-# HR-Budget-Performance-Analysis
-
+# HR-Dashboard-Analytics
 # 🚀 HR & Project Performance Dashboard (Power BI)
 
 This project is a comprehensive Power BI dashboard designed to provide visibility into employee performance, salary distribution, departmental budgets, and project health. It helps organizations quickly identify areas at risk of overspending or underperformance.
@@ -25,12 +24,12 @@ This project is a comprehensive Power BI dashboard designed to provide visibilit
 ## 🧰 Tools & Technologies
 
 - Power BI
+
+- SQL Server Management Studio
   
 - DAX (Data Analysis Expressions)
   
 - Data Modeling & ETL
-  
-- Relational data structuring
 
 ## 📌 Use Case
 
